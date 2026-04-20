@@ -108,3 +108,20 @@ Classes — three character classes (Knight / Wizard / Assassin) you swap betwee
 ### 🗂️ Project Zip
 [`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
 
+---
+
+### Submission - Overloaded Truck
+### 👤 Name 
+Ishan Avasthi (Roll No. - 10042)
+
+### 🧠 Theme
+Overloading
+
+### 🔗 Itch.io Link
+[Play Overloaded Truck](https://avasthi.itch.io/overload-truck)
+
+### 📦 Source Repo
+[GitHub Repository](https://github.com/ishanavasthi/OverloadingMVP)
+
+### 🗂️ Project Zip
+[OverloadingTruck.zip](https://github.com/ishanavasthi/GameJamCodeSubmissions/raw/refs/heads/main/OverloadingTruck.zip)
